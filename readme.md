@@ -37,8 +37,8 @@ my_telegram_bot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/my_telegram_bot
-cd my_telegram_bot
+git clone https://github.com/Sinusab/TelegramPriceBot
+cd TelegramPriceBot
 ```
 
 ### 2. Install dependencies
